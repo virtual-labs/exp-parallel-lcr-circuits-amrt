@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+   {
+      "question": "Bandwidth of RLC circuit does not depend on the value of its",
+      "answers": {
+        "a": "capacitance",
+        "b": "inductance",
+        "c": "resistance",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "An RLC series circuit consists of R = 80 ohm and L = .000040 H and C = .0783pF. Find its resonant frequency",
+      "answers": {
+        "a": "90MHz",
+        "b": "100MHz",
+        "c": "85.5MHz",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A tuned circuit is a resonant circuit",
+      "answers": {
+        "a": "partially true",
+        "b": "true",
+        "c": "false",
+        "d": "none of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Condition for resonance is",
+      "answers": {
+        "a": "XC=XL",
+        "b": "XC",
+        "c": "XC>XL",
+        "d": "none of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The total impedance produced when parallel LC combination placed parallel to resistor is",
+      "answers": {
+        "a": "equal to R",
+        "b": "less than R",
+        "c": "greater than R",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    }
+  ]
+}

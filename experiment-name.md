@@ -1,0 +1,1 @@
+## Parallel LCR Circuits
